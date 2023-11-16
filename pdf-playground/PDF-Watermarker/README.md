@@ -18,7 +18,7 @@ watermark(
 # fourth argument determines what all pages should be watermarked 
 # by default it is set to "ALL" but it can be alterd to list of numbers that acts as page_indices for watermarking
 ```
-
+[PyPDF2 Documentation for reference](https://pypdf2.readthedocs.io/en/3.0.0/user/add-watermark.html#watermark-underlay)
 #### how to run 
 
 ```sh
