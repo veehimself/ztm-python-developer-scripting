@@ -14,6 +14,7 @@
 ```sh
 python email_sender.py
 ```
+---
 ```sh
 python email_sender2.py
 ```
