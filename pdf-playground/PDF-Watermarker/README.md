@@ -1,5 +1,5 @@
 # PDF-Watermarker
-### simple program that adds watermark to the provdided pdf
+### simple program that adds watermark to the provided pdf
 ---
 #### variables
 ```python
@@ -16,7 +16,7 @@ watermark(
     pdf_result,
 )
 # fourth argument determines what all pages should be watermarked 
-# by default it is set to "ALL" but it can be alterd to list of numbers that acts as page_indices for watermarking
+# by default it is set to "ALL" but it can be altered to list of numbers that acts as page_indices for watermarking
 ```
 [PyPDF2 Documentation for reference](https://pypdf2.readthedocs.io/en/3.0.0/user/add-watermark.html#watermark-underlay)
 #### how to run 
