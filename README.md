@@ -17,3 +17,9 @@ source .venv/bin/activate
 # On Windows.
 .venv\Scripts\activate
 ```
+---
+### To install a package into the virtual environment:
+```sh
+uv pip install <package>            # Install <Package>.
+uv pip install -r requirements.txt  # Install from a requirements.txt file.
+```
