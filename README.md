@@ -30,3 +30,7 @@ uv pip install <package>            # Install <Package>.
 uv pip install -r requirements.txt  # Install from a requirements.txt file.
 ```
 ---
+### To run the project 
+- create a virtual environment
+- activate the virtual environment
+- install packages from `requirements.txt` 
